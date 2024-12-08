@@ -14,7 +14,7 @@ A velocity-sensitive digital piano using STM32 and ESP32 microcontrollers.
 ### [IoT RobotCar](https://github.com/maanavkoladia/IoTRobotCar)  
 An IoT-connected robotic car with real-time monitoring and control.  
 
-### [High-Efficiency Boost Converter](#)  
+### [High-Efficiency Boost Converter](https://github.com/maanavkoladia/BoostConverter)  
 A 24V to 48V boost converter for an electric bike motor.  
 
 ---
