@@ -8,7 +8,7 @@ I am passionate about embedded systems because they allow me to combine my love 
 
 ## Projects
 
-### [DigiPiano](#)  
+### [DigiPiano](https://github.com/maanavkoladia/DigiPiano)  
 A velocity-sensitive digital piano using STM32 and ESP32 microcontrollers.  
 
 ### [IoT RobotCar](#)  
