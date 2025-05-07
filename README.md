@@ -19,4 +19,4 @@ A 24V to 48V boost converter for an electric bike motor.
 
 ---
 
-Thanks for visiting my GitHub! Feel free to reach out if you’d like to collaborate or chat about embedded systems.
+Thanks for visiting my GitHub!
