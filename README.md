@@ -11,7 +11,7 @@ I am passionate about embedded systems because they allow me to combine my love 
 ### [FreakyRTOS](https://github.com/maanavkoladia/FreakyRTOS)  
 A lightweight real-time operating system designed for embedded systems with a focus on simplicity and performance.
 
-### [FreakyNetworking](https://github.com/maanavkoladia/FreakyNetworking)  
+### [FreakyNetworking](https://github.com/IshDeshpa/445M_Networking)  
 An embedded networking stack supporting MAC, IPv4, UDP, ARP, DHCP, and more, built to run on FreakyRTOS.
 
 ### [DigiPiano](https://github.com/maanavkoladia/DigiPiano)  
