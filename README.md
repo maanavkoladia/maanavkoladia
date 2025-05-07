@@ -8,10 +8,16 @@ I am passionate about embedded systems because they allow me to combine my love 
 
 ## Projects
 
+### [FreakyRTOS](https://github.com/maanavkoladia/FreakyRTOS)  
+A lightweight real-time operating system designed for embedded systems with a focus on simplicity and performance.
+
+### [FreakyNetworking](https://github.com/maanavkoladia/FreakyNetworking)  
+An embedded networking stack supporting MAC, IPv4, UDP, ARP, DHCP, and more, built to run on FreakyRTOS.
+
 ### [DigiPiano](https://github.com/maanavkoladia/DigiPiano)  
 A velocity-sensitive digital piano using STM32 and ESP32 microcontrollers.  
 
-### [IoT RobotCar](https://github.com/maanavkoladia/IoTRobotCar)  
+### [Autonomous Robot Car](https://github.com/maanavkoladia/IoTRobotCar)  
 An IoT-connected robotic car with real-time monitoring and control.  
 
 ### [High-Efficiency Boost Converter](https://github.com/maanavkoladia/BoostConverter)  
