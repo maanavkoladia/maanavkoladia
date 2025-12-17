@@ -2,7 +2,7 @@
 
 I am a student at the University of Texas at Austin, pursuing a degree in Electrical and Computer Engineering with a focus on Computer Architecture and Embedded Systems Design, as well as a second degree in Pure Mathematics.  
 
-I am passionate about embedded systems because they allow me to combine my love for problem-solving and technology to create tangible, impactful solutions. Feel free to explore some of the projects I’m proud of below:
+I am excited about topics in Computer Architecture and RTL Design
 
 ---
 
