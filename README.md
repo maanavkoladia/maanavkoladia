@@ -7,7 +7,7 @@ I am excited about topics in Computer Architecture and RTL Design
 ---
 
 ## Projects
-### [FreakyRTOS](https://github.com/maanavkoladia/uarch)  
+### [EverythingEverywhereAllAtOnce](https://github.com/maanavkoladia/uarch)  
 An x86-32 MicroProcessor
 
 ### [FreakyRTOS](https://github.com/maanavkoladia/FreakyRTOS)  
