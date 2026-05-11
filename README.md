@@ -7,6 +7,8 @@ I am excited about topics in Computer Architecture and RTL Design
 ---
 
 ## Projects
+### [FreakyRTOS](https://github.com/maanavkoladia/uarch)  
+An x86-32 MicroProcessor
 
 ### [FreakyRTOS](https://github.com/maanavkoladia/FreakyRTOS)  
 A lightweight real-time operating system designed for embedded systems with a focus on simplicity and performance.
