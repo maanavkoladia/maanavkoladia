@@ -10,6 +10,10 @@ I am excited about topics in Computer Architecture and RTL Design
 ### [EverythingEverywhereAllAtOnce](https://github.com/maanavkoladia/uarch)  
 An x86-32 MicroProcessor
 
+### [EverythingEverywhereAllAtOnce](https://github.com/maanavkoladia/uarch)  
+A 2D Fluid-Sim. The physics engine is built on a Navier-Stokes Grid Based Algorithim. The graphics are driven by OpenGL. This project heavily relies on CPU/GPU programming to drive performance.
+
+
 ### [FreakyRTOS](https://github.com/maanavkoladia/FreakyRTOS)  
 A lightweight real-time operating system designed for embedded systems with a focus on simplicity and performance.
 
